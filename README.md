@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome to My-Portfolio 🔥 </h1> 
-<h3 align="center"> A Complete Customizable Elegant Personal Portfolio Website and is fully responsive <br /> built with react.js lets you display your works and Professional skills </h3>
+<h3 align="center"> A Complete Customizable Elegant Personal Portfolio Website and is fully responsive <br /> built with react.js </h3>
 <h3 align="left">##Sections 📚</h3>
 <div>
     ⚡️ About me <br>
