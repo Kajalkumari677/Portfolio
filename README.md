@@ -1,26 +1,14 @@
 <h1 align="center"> Welcome to My-Portfolio 🔥 </h1> 
 <h3 align="center"> A Complete Customizable Elegant Personal Portfolio Website and is fully responsive <br /> built with react.js lets you display your works and Professional skills </h3>
-
-<p align="center"> 
-    <!-- <a href="https://github.com/1998Suraj/My-Portfolio" target="_blank">
-     <img src="https://github.com/1998Suraj/My_Photo/blob/main/Home.png?raw=true"></img>
-        <img src="https://github.com/1998Suraj/My_Photo/blob/main/About.png?raw=true"></img>
-          <img src="https://github.com/1998Suraj/My_Photo/blob/main/skills.png?raw=true"></img>
-           <img src="https://github.com/1998Suraj/My_Photo/blob/main/Project1.png?raw=true"></img>
-            <img src="https://github.com/1998Suraj/My_Photo/blob/main/project2.png?raw=true"></img>
-             <img src="https://github.com/1998Suraj/My_Photo/blob/main/Contact.png?raw=true"></img>
-
-  </a> -->
-</p>
-
-## Sections 📚
-
-⚡️ About me <br>
-⚡️ Skills <br>
-⚡️ Projects <br>
-⚡️ Contact me <br>
-
-## Features ✨
+<h3 align="left">##Sections 📚</h3>
+<div>
+    ⚡️ About me <br>
+   ⚡️ Skills <br>
+   ⚡️ Projects <br>
+  ⚡️ Contact me <br>
+</div>
+<br>
+<h3>## Features ✨</h3>
 
 🔥 Completely Customizable <br>
 🔥 Minimal UI + Reveal Animations <br>
